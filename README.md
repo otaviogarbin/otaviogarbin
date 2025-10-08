@@ -28,6 +28,10 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **prog
 
 ---
 
+## 🎮 Jogos
+
+![Valorant](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white)
+
 ## 🚀 Meus Projetos
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
