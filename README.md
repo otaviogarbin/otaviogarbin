@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Otávio Garbin
+#  Olá! Eu sou o Otávio Garbin
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-End, Back-End, Mobile, Banco de Dados, UX/UI.
 
