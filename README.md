@@ -43,8 +43,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **prog
 ## 💡 Sobre Mim
 
 - 🎓 Atualmente estudo no **Sesi/Senai**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **ser Desenvolvedor Full Stack]**
+- 🎯 Meu objetivo é **ser Desenvolvedor Full Stack**
 
 ---
 
