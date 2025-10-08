@@ -38,6 +38,8 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **prog
 
 > 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
+> https://otaviogarbin.github.io/Site--HTML-CSS-/
+
 ---
 
 ## 💡 Sobre Mim
